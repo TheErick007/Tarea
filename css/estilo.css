@@ -1,0 +1,21 @@
+body {
+    background-image: url('../img/f\ page.jpg');
+    background-size: cover; /* Ajusta la imagen para que cubra toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.tit{
+    border-bottom: 200px;
+    margin-top: 20px;
+}
+
+.contenido{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.info{
+    font-size: 19px;
+    line-height: 2;
+}
